@@ -1,0 +1,22 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  padding: 0 34px;
+  width: 317px;
+  background: #1a1b21;
+  color: #f5f5f5;
+  padding-bottom: 14px;
+}
+.interests{
+    padding-bottom: 40px;
+}
+.title {
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.text {
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 15px;
+}
